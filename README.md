@@ -4,26 +4,26 @@
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#project-overview)  
-2. [Tools & Technologies](#tools--technologies)  
-3. [Dataset Overview](#dataset-overview)  
-4. [Python – Data Preparation & Exploration](#python--data-preparation--exploration)  
+1. [Project Overview](#1-project-overview)  
+2. [Tools & Technologies](#2-tools--technologies)  
+3. [Dataset Overview](#3-dataset-overview)  
+4. [Python – Data Preparation & Exploration](#4-python--data-preparation--exploration)  
    - 4.1 [Data Loading & Preparation](#41-data-loading--preparation)  
    - 4.2 [Important Python Results](#42-important-python-results)  
    - 4.3 [Performance Analysis](#43-performance-analysis)  
-5. [SQL – Business Analysis](#sql--business-analysis)  
+5. [SQL – Business Analysis](#5-sql--business-analysis)  
    - 5.1 [Business Performance Analysis](#business-performance-analysis)  
    - 5.2 [Funnel User Behavior Analysis](#funnel-user-behavior-analysis)  
    - 5.3 [Product Performance Analysis](#product-performance-analysis)  
    - 5.4 [Refund Impact Analysis](#refund-impact-analysis)  
   
-6. [Power BI Dashboard](#power-bi-dashboard)  
+6. [Power BI Dashboard](#6-power-bi-dashboard)  
    - [6.1 Page 1 – Executive Overview](#61-page-1--executive-overview)  
    - [6.2 Page 2 – Product](#62-page-2--product)  
  
-7. [Business Recommendations](#business-recommendations)  
-8. [Limitations](#limitations)  
-9. [Future Improvements](#future-improvements)
+7. [Business Recommendations](#7-business-recommendations)  
+8. [Limitations](#8-limitations)  
+9. [Future Improvements](#9-future-improvements)
 
 ---
 
